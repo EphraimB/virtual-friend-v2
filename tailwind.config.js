@@ -18,6 +18,7 @@ module.exports = {
       },
       borderRadius: {
         'face': '0 20% 50% 70% / 50%',
+        'hair-back': '100% / 90% 90% 100% 100%',
       },
       boxShadow: {
         'face-effect': '-0.125vmin 0.25vmin, inset -1.5vmin 0.5vmin var(--skin-light), inset 3vmin 0.5vmin var(--skin-dark)'

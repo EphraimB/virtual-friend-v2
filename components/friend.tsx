@@ -3,7 +3,7 @@ import React from 'react';
 export default function Friend() {
     return (
         <div className="canvas text-line w-80vmin h-80vmin absolute bottom-0 left-0 truncate">
-            <div className="hair-back"></div>
+            <div className="hair-back box-border absolute w-1/5 h-[30%] bg-line rounded-hair-back left-[52%] top-[5%] rotate-6"></div>
             <div className="ear-back"></div>
             <div className="arm arm-back"></div>
             <div className="body"></div>
