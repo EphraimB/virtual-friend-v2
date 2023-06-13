@@ -13,6 +13,12 @@ module.exports = {
       height: {
         '80vmin': '80vmin',
       },
+      borderWidth: {
+        '1vmin': '1vmin',
+      },
+      borderRadius: {
+        'face': '0 20% 50% 70% / 50%',
+      },
     },
     colors: {
       line: '#222',

@@ -9,7 +9,7 @@ export default function Friend() {
             <div className="body"></div>
             <div className="neck"></div>
             <div className="arm"></div>
-            <div className="face">
+            <div className="face absolute top-[13%] left-2/4 w-2/5 h-2/4 bg-[#fca] border-1vmin rounded-face">
                 <div className="hair-side"></div>
                 <div className="hair-top"></div>
                 <div className="ear"></div>
